@@ -1,2 +1,2 @@
-# immortalcatz.github.io
-website idea
+# immortalcatz
+My First Github Site
